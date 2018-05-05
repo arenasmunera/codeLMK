@@ -1,0 +1,298 @@
+Init lmk count: 0
+Init pgfault: 1007386
+Init pgmafult: 2131
+Init state
+Events injected: 1
+## Network stats: elapsed time=262ms (0ms mobile, 0ms wifi, 262ms not connected)
+Launch Time: 558
+lastPss: 0
+New process. Count=1
+New process. Launch time news=558
+Events injected: 1
+## Network stats: elapsed time=166ms (0ms mobile, 0ms wifi, 166ms not connected)
+Launch Time: 1213
+lastPss: 0
+New process. Count=2
+New process. Launch time news=1771
+Events injected: 1
+## Network stats: elapsed time=134ms (0ms mobile, 0ms wifi, 134ms not connected)
+Launch Time: 0
+lastPss: 305545
+Active process. Count=1
+Active process. Launch time actives=0
+Events injected: 1
+## Network stats: elapsed time=161ms (0ms mobile, 0ms wifi, 161ms not connected)
+Launch Time: 1064
+lastPss: 0
+New process. Count=3
+New process. Launch time news=2835
+Events injected: 1
+## Network stats: elapsed time=213ms (0ms mobile, 0ms wifi, 213ms not connected)
+Launch Time: 721
+lastPss: 0
+New process. Count=4
+New process. Launch time news=3556
+Finish Block 0
+Page faults: 543225
+Main page faults: 2231
+
+Events injected: 1
+## Network stats: elapsed time=210ms (0ms mobile, 0ms wifi, 210ms not connected)
+Launch Time: 1003
+lastPss: 0
+New process. Count=5
+New process. Launch time news=4559
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=129ms (0ms mobile, 0ms wifi, 129ms not connected)
+Launch Time: 1082
+lastPss: 0
+New process. Count=6
+New process. Launch time news=5641
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=80ms (0ms mobile, 0ms wifi, 80ms not connected)
+Launch Time: 671
+lastPss: 0
+New process. Count=7
+New process. Launch time news=6312
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=90ms (0ms mobile, 0ms wifi, 90ms not connected)
+Launch Time: 571
+lastPss: 0
+New process. Count=8
+New process. Launch time news=6883
+Events injected: 1
+## Network stats: elapsed time=226ms (0ms mobile, 0ms wifi, 226ms not connected)
+Launch Time: 660
+lastPss: 0
+New process. Count=9
+New process. Launch time news=7543
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Finish Block 1
+Page faults: 1350886
+Main page faults: 5213
+
+Events injected: 1
+## Network stats: elapsed time=177ms (0ms mobile, 0ms wifi, 177ms not connected)
+Launch Time: 540
+lastPss: 0
+New process. Count=10
+New process. Launch time news=8083
+Events injected: 1
+## Network stats: elapsed time=160ms (0ms mobile, 0ms wifi, 160ms not connected)
+Launch Time: 961
+lastPss: 0
+New process. Count=11
+New process. Launch time news=9044
+Events injected: 1
+## Network stats: elapsed time=147ms (0ms mobile, 0ms wifi, 147ms not connected)
+Launch Time: 1131
+lastPss: 0
+New process. Count=12
+New process. Launch time news=10175
+Events injected: 1
+## Network stats: elapsed time=216ms (0ms mobile, 0ms wifi, 216ms not connected)
+Launch Time: 814
+lastPss: 0
+New process. Count=13
+New process. Launch time news=10989
+Events injected: 1
+## Network stats: elapsed time=218ms (0ms mobile, 0ms wifi, 218ms not connected)
+Launch Time: 1144
+lastPss: 0
+New process. Count=14
+New process. Launch time news=12133
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Finish Block 2
+Page faults: 1841561
+Main page faults: 8153
+
+Events injected: 1
+## Network stats: elapsed time=90ms (0ms mobile, 0ms wifi, 90ms not connected)
+Launch Time: 541
+lastPss: 0
+New process. Count=15
+New process. Launch time news=12674
+Events injected: 1
+## Network stats: elapsed time=206ms (0ms mobile, 0ms wifi, 206ms not connected)
+Launch Time: 0
+lastPss: 220813
+Active process. Count=2
+Active process. Launch time actives=0
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=103ms (0ms mobile, 0ms wifi, 103ms not connected)
+Launch Time: 1110
+lastPss: 0
+New process. Count=16
+New process. Launch time news=13784
+Events injected: 1
+## Network stats: elapsed time=124ms (0ms mobile, 0ms wifi, 124ms not connected)
+Launch Time: 0
+lastPss: 384155
+Active process. Count=3
+Active process. Launch time actives=0
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=110ms (0ms mobile, 0ms wifi, 110ms not connected)
+Launch Time: 545
+lastPss: 0
+New process. Count=17
+New process. Launch time news=14329
+Finish Block 3
+Page faults: 2459280
+Main page faults: 10856
+
+Events injected: 1
+## Network stats: elapsed time=168ms (0ms mobile, 0ms wifi, 168ms not connected)
+Launch Time: 0
+lastPss: 233412
+Active process. Count=4
+Active process. Launch time actives=0
+Events injected: 1
+## Network stats: elapsed time=154ms (0ms mobile, 0ms wifi, 154ms not connected)
+Launch Time: 824
+lastPss: 0
+New process. Count=18
+New process. Launch time news=15153
+Events injected: 1
+## Network stats: elapsed time=63ms (0ms mobile, 0ms wifi, 63ms not connected)
+Launch Time: 607
+lastPss: 0
+New process. Count=19
+New process. Launch time news=15760
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=162ms (0ms mobile, 0ms wifi, 162ms not connected)
+Launch Time: 926
+lastPss: 0
+New process. Count=20
+New process. Launch time news=16686
+Events injected: 1
+## Network stats: elapsed time=155ms (0ms mobile, 0ms wifi, 155ms not connected)
+Launch Time: 584
+lastPss: 0
+New process. Count=21
+New process. Launch time news=17270
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Finish Block 4
+Page faults: 2942688
+Main page faults: 13239
+
+Events injected: 1
+## Network stats: elapsed time=101ms (0ms mobile, 0ms wifi, 101ms not connected)
+Launch Time: 306
+lastPss: 18083
+Active process. Count=5
+Active process. Launch time actives=306
+Events injected: 1
+## Network stats: elapsed time=128ms (0ms mobile, 0ms wifi, 128ms not connected)
+Launch Time: 1615
+lastPss: 0
+New process. Count=22
+New process. Launch time news=18885
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=134ms (0ms mobile, 0ms wifi, 134ms not connected)
+Launch Time: 0
+lastPss: 0
+New process. Count=23
+New process. Launch time news=18885
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=131ms (0ms mobile, 0ms wifi, 131ms not connected)
+Launch Time: 746
+lastPss: 0
+New process. Count=24
+New process. Launch time news=19631
+Events injected: 1
+## Network stats: elapsed time=143ms (0ms mobile, 0ms wifi, 143ms not connected)
+Launch Time: 1185
+lastPss: 0
+New process. Count=25
+New process. Launch time news=20816
+Finish Block 5
+Page faults: 3591130
+Main page faults: 16432
+
+Events injected: 1
+## Network stats: elapsed time=69ms (0ms mobile, 0ms wifi, 69ms not connected)
+Launch Time: 340
+lastPss: 65301
+Active process. Count=6
+Active process. Launch time actives=646
+Events injected: 1
+## Network stats: elapsed time=89ms (0ms mobile, 0ms wifi, 89ms not connected)
+Launch Time: 1430
+lastPss: 0
+New process. Count=26
+New process. Launch time news=22246
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=190ms (0ms mobile, 0ms wifi, 190ms not connected)
+Launch Time: 2178
+lastPss: 0
+New process. Count=27
+New process. Launch time news=24424
+Events injected: 1
+## Network stats: elapsed time=162ms (0ms mobile, 0ms wifi, 162ms not connected)
+Launch Time: 615
+lastPss: 0
+New process. Count=28
+New process. Launch time news=25039
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=104ms (0ms mobile, 0ms wifi, 104ms not connected)
+Launch Time: 0
+lastPss: 393272
+Active process. Count=7
+Active process. Launch time actives=646
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Finish Block 6
+Page faults: 4139125
+Main page faults: 18754
+
+News: 28
+Actives: 7
+Total: 35
+Success: 20.00 %
+Failure: 80.00 %
+Average Launch time: 733.85
+Average Launch time news: 894.25
+Average Launch time actives: 92.28
+Fail measures: 0
+Average running count: 13.62
+Finish lmk count: 106
+Apps killed during the test: 106
+Final pgfault: 5147807
+Final pgmafault: 20885
+Page faults: 4140421
+Main page faults: 18754
+ 
+FINAL RESULTS
+Success: 20.00 %
+Failure: 80.00 %
+Average Launch time: 733.85
+Average Launch time news: 894.25
+Average Launch time actives: 92.28
+Fail measures: 0
+Average running count: 13.62
+Apps killed during the test: 106
+Page faults: 4140421
+Main page faults: 18754

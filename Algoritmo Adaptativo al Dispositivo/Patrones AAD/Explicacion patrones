@@ -1,0 +1,16 @@
+INPUTS:
+1 - RAM total (MB) / 100
+2 - RAM libre en el arranque (MB) / 100
+3 - Nº procesos abiertos en el arranque / 10
+4 - Tamaño proceso más grande (MB) / 100
+
+
+OUTPUTS:
+1 - Ponderación configuración extremadamente agresiva
+2 - Ponderación configuración muy agresiva
+3 - Ponderación configuración agresiva
+4 - Ponderación configuración ligera
+5 - Ponderación configuración muy ligera
+6 - Ponderación configuración extremadamente ligera
+7 - Número de procesos abiertos (umbral) / 10
+8 - Tamaño del proceso más grande en primer plano (umbral) / 100

@@ -1,0 +1,353 @@
+Init lmk count: 0
+Init pgfault: 1042406
+Init pgmafult: 2144
+Init state
+Events injected: 1
+## Network stats: elapsed time=240ms (0ms mobile, 0ms wifi, 240ms not connected)
+Launch Time: 459
+lastPss: 0
+New process. Count=1
+New process. Launch time news=459
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=164ms (0ms mobile, 0ms wifi, 164ms not connected)
+Launch Time: 1158
+lastPss: 0
+New process. Count=2
+New process. Launch time news=1617
+Events injected: 1
+## Network stats: elapsed time=176ms (0ms mobile, 0ms wifi, 176ms not connected)
+Launch Time: 375
+lastPss: 0
+New process. Count=3
+New process. Launch time news=1992
+Events injected: 1
+## Network stats: elapsed time=140ms (0ms mobile, 0ms wifi, 140ms not connected)
+Launch Time: 1138
+lastPss: 0
+New process. Count=4
+New process. Launch time news=3130
+Events injected: 1
+## Network stats: elapsed time=188ms (0ms mobile, 0ms wifi, 188ms not connected)
+Launch Time: 699
+lastPss: 0
+New process. Count=5
+New process. Launch time news=3829
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Finish Block 0
+Page faults: 577472
+Main page faults: 1224
+
+Events injected: 1
+## Network stats: elapsed time=120ms (0ms mobile, 0ms wifi, 120ms not connected)
+Launch Time: 843
+lastPss: 0
+New process. Count=6
+New process. Launch time news=4672
+Events injected: 1
+## Network stats: elapsed time=106ms (0ms mobile, 0ms wifi, 106ms not connected)
+Launch Time: 895
+lastPss: 0
+New process. Count=7
+New process. Launch time news=5567
+Events injected: 1
+## Network stats: elapsed time=102ms (0ms mobile, 0ms wifi, 102ms not connected)
+Launch Time: 191
+lastPss: 26967
+Active process. Count=1
+Active process. Launch time actives=191
+Events injected: 1
+## Network stats: elapsed time=100ms (0ms mobile, 0ms wifi, 100ms not connected)
+Launch Time: 300
+lastPss: 25612
+Active process. Count=2
+Active process. Launch time actives=491
+Events injected: 1
+## Network stats: elapsed time=99ms (0ms mobile, 0ms wifi, 99ms not connected)
+Launch Time: 1081
+lastPss: 0
+New process. Count=8
+New process. Launch time news=6648
+Finish Block 1
+Page faults: 865611
+Main page faults: 2150
+
+Events injected: 1
+## Network stats: elapsed time=134ms (0ms mobile, 0ms wifi, 134ms not connected)
+Launch Time: 1161
+lastPss: 0
+New process. Count=9
+New process. Launch time news=7809
+Events injected: 1
+## Network stats: elapsed time=145ms (0ms mobile, 0ms wifi, 145ms not connected)
+Launch Time: 335
+lastPss: 23547
+Active process. Count=3
+Active process. Launch time actives=826
+Events injected: 1
+## Network stats: elapsed time=130ms (0ms mobile, 0ms wifi, 130ms not connected)
+Launch Time: 347
+lastPss: 22276
+Active process. Count=4
+Active process. Launch time actives=1173
+Events injected: 1
+## Network stats: elapsed time=164ms (0ms mobile, 0ms wifi, 164ms not connected)
+Launch Time: 886
+lastPss: 0
+New process. Count=10
+New process. Launch time news=8695
+Events injected: 1
+## Network stats: elapsed time=185ms (0ms mobile, 0ms wifi, 185ms not connected)
+Launch Time: 1554
+lastPss: 0
+New process. Count=11
+New process. Launch time news=10249
+Finish Block 2
+Page faults: 1181149
+Main page faults: 4081
+
+Events injected: 1
+## Network stats: elapsed time=221ms (0ms mobile, 0ms wifi, 221ms not connected)
+Launch Time: 297
+lastPss: 20689
+Active process. Count=5
+Active process. Launch time actives=1470
+Events injected: 1
+## Network stats: elapsed time=144ms (0ms mobile, 0ms wifi, 144ms not connected)
+Launch Time: 633
+lastPss: 33329
+Active process. Count=6
+Active process. Launch time actives=2103
+Events injected: 1
+## Network stats: elapsed time=187ms (0ms mobile, 0ms wifi, 187ms not connected)
+Launch Time: 598
+lastPss: 23847
+Active process. Count=7
+Active process. Launch time actives=2701
+Events injected: 1
+## Network stats: elapsed time=129ms (0ms mobile, 0ms wifi, 129ms not connected)
+Launch Time: 779
+lastPss: 0
+New process. Count=12
+New process. Launch time news=11028
+Events injected: 1
+## Network stats: elapsed time=80ms (0ms mobile, 0ms wifi, 80ms not connected)
+Launch Time: 624
+lastPss: 0
+New process. Count=13
+New process. Launch time news=11652
+Finish Block 3
+Page faults: 1487602
+Main page faults: 5477
+
+Events injected: 1
+## Network stats: elapsed time=104ms (0ms mobile, 0ms wifi, 104ms not connected)
+Launch Time: 400
+lastPss: 0
+New process. Count=14
+New process. Launch time news=12052
+Events injected: 1
+## Network stats: elapsed time=55ms (0ms mobile, 0ms wifi, 55ms not connected)
+Launch Time: 738
+lastPss: 0
+New process. Count=15
+New process. Launch time news=12790
+Events injected: 1
+    // activityResuming(com.whatsapp)
+## Network stats: elapsed time=144ms (0ms mobile, 0ms wifi, 144ms not connected)
+Launch Time: 312
+lastPss: 15683
+Active process. Count=8
+Active process. Launch time actives=3013
+Events injected: 1
+## Network stats: elapsed time=220ms (0ms mobile, 0ms wifi, 220ms not connected)
+Launch Time: 456
+lastPss: 0
+New process. Count=16
+New process. Launch time news=13246
+Events injected: 1
+    // activityResuming(com.twitter.android)
+## Network stats: elapsed time=147ms (0ms mobile, 0ms wifi, 147ms not connected)
+Launch Time: 223
+lastPss: 38440
+Active process. Count=9
+Active process. Launch time actives=3236
+Finish Block 4
+Page faults: 1752755
+Main page faults: 6077
+
+Events injected: 1
+## Network stats: elapsed time=106ms (0ms mobile, 0ms wifi, 106ms not connected)
+Launch Time: 0
+lastPss: 36670
+Active process. Count=10
+Active process. Launch time actives=3236
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=94ms (0ms mobile, 0ms wifi, 94ms not connected)
+Launch Time: 708
+lastPss: 0
+New process. Count=17
+New process. Launch time news=13954
+Events injected: 1
+## Network stats: elapsed time=108ms (0ms mobile, 0ms wifi, 108ms not connected)
+Launch Time: 567
+lastPss: 0
+New process. Count=18
+New process. Launch time news=14521
+Events injected: 1
+## Network stats: elapsed time=126ms (0ms mobile, 0ms wifi, 126ms not connected)
+Launch Time: 623
+lastPss: 0
+New process. Count=19
+New process. Launch time news=15144
+Events injected: 1
+## Network stats: elapsed time=120ms (0ms mobile, 0ms wifi, 120ms not connected)
+Launch Time: 432
+lastPss: 22591
+Active process. Count=11
+Active process. Launch time actives=3668
+Finish Block 5
+Page faults: 2071311
+Main page faults: 7411
+
+Events injected: 1
+## Network stats: elapsed time=121ms (0ms mobile, 0ms wifi, 121ms not connected)
+Launch Time: 775
+lastPss: 29047
+Active process. Count=12
+Active process. Launch time actives=4443
+Events injected: 1
+## Network stats: elapsed time=191ms (0ms mobile, 0ms wifi, 191ms not connected)
+Launch Time: 454
+lastPss: 28034
+Active process. Count=13
+Active process. Launch time actives=4897
+Events injected: 1
+## Network stats: elapsed time=131ms (0ms mobile, 0ms wifi, 131ms not connected)
+Launch Time: 1314
+lastPss: 0
+New process. Count=20
+New process. Launch time news=16458
+Events injected: 1
+## Network stats: elapsed time=92ms (0ms mobile, 0ms wifi, 92ms not connected)
+Launch Time: 666
+lastPss: 0
+New process. Count=21
+New process. Launch time news=17124
+Events injected: 1
+## Network stats: elapsed time=169ms (0ms mobile, 0ms wifi, 169ms not connected)
+Launch Time: 1348
+lastPss: 0
+New process. Count=22
+New process. Launch time news=18472
+Finish Block 6
+Page faults: 2333488
+Main page faults: 8013
+
+Events injected: 1
+## Network stats: elapsed time=53ms (0ms mobile, 0ms wifi, 53ms not connected)
+Launch Time: 583
+lastPss: 0
+New process. Count=23
+New process. Launch time news=19055
+Events injected: 1
+## Network stats: elapsed time=158ms (0ms mobile, 0ms wifi, 158ms not connected)
+Launch Time: 0
+lastPss: 31936
+Active process. Count=14
+Active process. Launch time actives=4897
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=109ms (0ms mobile, 0ms wifi, 109ms not connected)
+Launch Time: 448
+lastPss: 0
+New process. Count=24
+New process. Launch time news=19503
+Events injected: 1
+## Network stats: elapsed time=89ms (0ms mobile, 0ms wifi, 89ms not connected)
+Launch Time: 1210
+lastPss: 0
+New process. Count=25
+New process. Launch time news=20713
+Events injected: 1
+## Network stats: elapsed time=271ms (0ms mobile, 0ms wifi, 271ms not connected)
+Launch Time: 1334
+lastPss: 0
+New process. Count=26
+New process. Launch time news=22047
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Finish Block 7
+Page faults: 2950849
+Main page faults: 12258
+
+Events injected: 1
+## Network stats: elapsed time=115ms (0ms mobile, 0ms wifi, 115ms not connected)
+Launch Time: 612
+lastPss: 0
+New process. Count=27
+New process. Launch time news=22659
+Events injected: 1
+## Network stats: elapsed time=138ms (0ms mobile, 0ms wifi, 138ms not connected)
+Launch Time: 1929
+lastPss: 0
+New process. Count=28
+New process. Launch time news=24588
+Starting: Intent { act=android.intent.action.MAIN cmp=com.google.android.apps.plus/com.google.android.apps.photos.phone.PhotosLauncherActivity }
+Launch Time: 1180
+lastPss: 0
+New process. Count=29
+New process. Launch time news=25768
+Events injected: 1
+## Network stats: elapsed time=119ms (0ms mobile, 0ms wifi, 119ms not connected)
+Launch Time: 878
+lastPss: 0
+New process. Count=30
+New process. Launch time news=26646
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Events injected: 1
+## Network stats: elapsed time=93ms (0ms mobile, 0ms wifi, 93ms not connected)
+Launch Time: 767
+lastPss: 0
+New process. Count=31
+New process. Launch time news=27413
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.launcher3/.Launcher }
+Warning: Activity not started, its current task has been brought to the front
+Finish Block 8
+Page faults: 3596572
+Main page faults: 16950
+
+News: 31
+Actives: 14
+Total: 45
+Success: 31.11 %
+Failure: 68.88 %
+Average Launch time: 718.00
+Average Launch time news: 884.29
+Average Launch time actives: 349.78
+Fail measures: 0
+Average running count: 24.10
+Finish lmk count: 47
+Apps killed during the test: 47
+Final pgfault: 4640280
+Final pgmafault: 19094
+Page faults: 3597874
+Main page faults: 16950
+ 
+FINAL RESULTS
+Success: 31.11 %
+Failure: 68.88 %
+Average Launch time: 718.00
+Average Launch time news: 884.29
+Average Launch time actives: 349.78
+Fail measures: 0
+Average running count: 24.10
+Apps killed during the test: 47
+Page faults: 3597874
+Main page faults: 16950
